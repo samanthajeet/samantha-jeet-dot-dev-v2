@@ -16,7 +16,6 @@ export default function Home() {
       <h1 className="mb-8 text-2xl font-medium tracking-tighter">
         ✌🏽aloha, I'm sam jeet
         <span className="text-xs tracking-wide prose prose-neutral dark:prose-invert">
-          {" "}
           she/her
         </span>
       </h1>
@@ -33,7 +32,6 @@ export default function Home() {
           Samantha has always dreamed of speaking about herself in the third
           person and is thankful for this opportunity.
         </p>
-
         <p className="prose prose-neutral dark:prose-invert">
           Sam was raised primarily on islands in The Pacific like Hawai'i, the
           Philippines, and Japan. Proof of this is seen in her wide feet,
@@ -66,7 +64,6 @@ export default function Home() {
           opportunity to learn from and work alongside some of the smartest and
           grooviest people in the business.
         </p>
-
         <p className="prose prose-neutral dark:prose-invert">
           Outside of work, Miss Jeet enjoys spending time with her partner and
           family, analog photography, binge-watching Bob's Burgers, calling her
