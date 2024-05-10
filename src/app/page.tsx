@@ -1,8 +1,12 @@
 import Image from "next/image";
-import styles from "./page.module.css";
+import { JSX, ClassAttributes, AnchorHTMLAttributes } from "react";
 
 export default function Home() {
-  function Badge(props) {
+  function Badge(
+    props: JSX.IntrinsicAttributes &
+      ClassAttributes<HTMLAnchorElement> &
+      AnchorHTMLAttributes<HTMLAnchorElement>
+  ) {
     return (
       <a
         {...props}
