@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: "Developer, teacher, internet maven.",
   openGraph: {
     title: "Samantha Jeet",
-    description: "Developer, writer, and creator.",
+    description: "Developer, teacher, and creator.",
     url: "https://samanthajeet.dev",
     siteName: "Samantha Jeet",
     locale: "en_US",
